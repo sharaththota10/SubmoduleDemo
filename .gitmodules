@@ -1,0 +1,3 @@
+[submodule "StashDemo"]
+	path = StashDemo
+	url = https://github.com/sharaththota10/StashDemo.git
